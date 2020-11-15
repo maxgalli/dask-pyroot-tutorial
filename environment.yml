@@ -12,3 +12,4 @@ dependencies:
   - notebook
   - ipywidgets>=7.5
   - root
+  - uproot4

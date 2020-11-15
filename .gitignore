@@ -55,3 +55,6 @@ docs/_build/
 
 # Notebooks stuff
 .ipynb_checkpoints
+
+# Dask
+dask-worker-space/*
