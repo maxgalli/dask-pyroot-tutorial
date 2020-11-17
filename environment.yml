@@ -9,7 +9,11 @@ dependencies:
   - dask=2.20.0
   - dask-labextension>=2.0.0
   - distributed=2.20.0
+  - dask-jobqueue
   - notebook
   - ipywidgets>=7.5
   - root
   - uproot4
+  - aghast
+  - boost-histogram
+  - mplhep

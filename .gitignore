@@ -58,3 +58,6 @@ docs/_build/
 
 # Dask
 dask-worker-space/*
+
+# Slurm
+slurm*
